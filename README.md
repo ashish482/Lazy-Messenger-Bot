@@ -1,6 +1,6 @@
 # Lazy-Messenger-Bot ( Build During DSCE-CSE Hackathon 2017, TEAM Number 43 )
 
-**Corresponding Web App Deployed on Heroku: https://lazymessengerbot.herokuapp.com**
+**Corresponding Web App Deployed on Heroku: https://lazymessengerbot.herokuapp.com**    
 
 An Automated Messenger Bot with following cool **features**:
 1. Control YouTube just by texting Bot (integrated with  **Facebook Messenger** ) using key terms like play,pause,forward,resume,mute, unmute and many more.
@@ -47,4 +47,4 @@ Wait till it sets up to start operation.
 
 # Technologies used and description
 
-For automation we are using **Selenium**- An Automation Python API to access all functionalities of the system WebDriver in an intuitive way.For news functionality we are using **Beautiful soup** library to scrap **Times of India** news headlines feeds.To automate the above tasks we are using **Selenium Chrome Drivers** to interact our system with the FB messenger by parsing each command to make two way communication between the Bot and FB Messenger.
+For automation we are using **Selenium** - An Automation Python API to access all functionalities of the system WebDriver in an intuitive way.For news functionality we are using **Beautiful soup** library to scrap **Times of India** news headlines feeds.To automate the above tasks we are using **Selenium Chrome Drivers** to interact our system with the FB messenger by parsing each command to make two way communication between the Bot and FB Messenger.
